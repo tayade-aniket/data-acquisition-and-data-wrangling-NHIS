@@ -39,7 +39,7 @@ This project focuses on performing data wrangling techniques on multiple dataset
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-      git clone https://github.com/your-github-username/data-wrangling-project.git
+      git clone https://github.com/tayade-aniket/data-acquisition-and-data-wrangling-NHIS.git
    ```
 2. Open the Jupyter Notebook to view the step-by-step process.
 3. Run the notebook or modify it to explore further insights.
@@ -48,7 +48,4 @@ This project focuses on performing data wrangling techniques on multiple dataset
 - **Mr. Aniket G. Tayade**
 
 ## License
-This project is licensed under the MIT License.
-
-
-### Happy Coding! 🎉
+This project is licensed under the MIT License. 🎉
