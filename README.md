@@ -5,7 +5,7 @@ This project focuses on performing data wrangling techniques on multiple dataset
 ## Datasets Used
 - **Dataset 1**: Contains ride-sharing data with attributes like date, season, weather conditions, and rental counts.
 - **Dataset 2**: Contains additional ride-sharing data with overlapping attributes.
-- **Dataset 3**: Provides more data points for merging with the combined Dataset 1 and Dataset 2.
+- **Dataset 3**: Contains 390 records of bike-sharing data, including date, season, weather conditions, temperature, humidity, windspeed, and hourly bike rentals.
 
 ## Tasks Performed
 ### Week 1: Data Wrangling on Dataset 1 and Dataset 2
